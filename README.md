@@ -104,6 +104,20 @@ Web application for human resources management.
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MontahaKh/MontahaKh/output/github-snake-dark.svg" />
+		<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MontahaKh/MontahaKh/output/github-snake.svg" />
+		<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/MontahaKh/MontahaKh/output/github-snake.svg" />
+	</picture>
+</div>
+
+Workflow source: [.github/workflows/snake.yml](.github/workflows/snake.yml)
+
+---
+
 ## Languages
 
 - Arabic: Native
